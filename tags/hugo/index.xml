@@ -1,11 +1,11 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-   <title>hugo on hugo-kiera</title>
+   <title>hugo on 朱治宇的博客</title>
    <link>https://iuzhuzhiyu.com/tags/hugo/</link>
-   <description>Recent content in hugo on hugo-kiera</description>
+   <description>Recent content in hugo on 朱治宇的博客</description>
    <generator>Hugo -- gohugo.io</generator>
-   <copyright>Copyright &amp;copy; 2019 - Author Name</copyright>
+   <copyright>Copyright &amp;copy; 2020 - zhuzhiyu</copyright>
    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
    
        <atom:link href="https://iuzhuzhiyu.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
